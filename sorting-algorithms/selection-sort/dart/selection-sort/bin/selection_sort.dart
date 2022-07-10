@@ -2,7 +2,7 @@ void selectionSort(List<int> arr) {
   int n = arr.length;
   for (int i = 0; i < n - 1; i++) {
     int indexMin = i;
-    for (int j = i; j < n - 1; j++) {
+    for (int j = i; j < n; j++) {
       if (arr[j] < arr[indexMin]) {
         indexMin = j;
       }
@@ -10,7 +10,7 @@ void selectionSort(List<int> arr) {
     if (i != indexMin) {
       var temp = arr[i];
       arr[i] = arr[indexMin];
-      arr[indexMin] = arr[i];
+      arr[indexMin] = temp;
     }
   }
 }

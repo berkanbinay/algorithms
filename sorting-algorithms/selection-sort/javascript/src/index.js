@@ -19,6 +19,6 @@ function selectionSort(arr) {
     console.log('Sorted Array -> ', arr)
 }
 
-var arr = [5, 2, 4, 6, 1, 3];
+var arr = [5, 2, 4, 6, 1, 2];
 console.log('Unsorted Array -> ', arr)
 selectionSort(arr)
