@@ -1,15 +1,7 @@
-package bubble_sort;
+package sorting_algorithms;
 
 public class BubbleSort {
-    public static void main(String[] args) {
-        int arr[] = {55, 16, 23, 48, 41, 34};
-        System.out.print("Unsorted array -> ");
-        print(arr);
 
-        int sortedArr[] = bubbleSort(arr);
-        System.out.print("\nSorted Array -> ");
-        print(sortedArr);
-    }
     static int[] bubbleSort(int arr[]) {
         int length = arr.length;
         int temp;
@@ -32,5 +24,15 @@ public class BubbleSort {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+    }
+
+    public static void main(String[] args) {
+        int arr[] = {55, 16, 23, 48, 41, 34};
+        System.out.print("Unsorted array -> ");
+        print(arr);
+
+        int sortedArr[] = bubbleSort(arr);
+        System.out.print("\nSorted Array -> ");
+        print(sortedArr);
     }
 }
