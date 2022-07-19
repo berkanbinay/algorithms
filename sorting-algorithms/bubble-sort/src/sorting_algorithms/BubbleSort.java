@@ -12,10 +12,25 @@ public class BubbleSort {
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
                 }
-                System.out.print("Step " + (i + 1) + ": ");
-                print(arr);
             }
         return arr;
+    }
+
+    static void bubbleSort(int arr[], int n) {
+        if (n == 1)
+            return;
+
+        int count = 0;
+        for (int i=0; i<n-1; i++)
+            if (arr[i] > arr[i+1]) {
+                int temp = arr[i];
+                arr[i] = arr[i+1];
+                arr[i+1] = temp;
+                count = count+1;
+            }
+        if (count == 0)
+            return;
+        bubbleSort(arr, n-1);
     }
 
     static void print(int arr[]) {
@@ -31,8 +46,9 @@ public class BubbleSort {
         System.out.print("Unsorted array -> ");
         print(arr);
 
-        int sortedArr[] = bubbleSort(arr);
+        // bubbleSort(arr);
+        bubbleSort(arr, arr.length);
         System.out.print("\nSorted Array -> ");
-        print(sortedArr);
+        print(arr);
     }
 }
