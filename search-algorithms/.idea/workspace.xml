@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa810e7f-f531-4a27-ad30-31460fc4d768" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/binary_search/binary_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jump_search/jump_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linear_search/linear_search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/merge_sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/out/production/merge_sort/algorithms/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge_sort/src/algorithms/MergeSort.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CFjDEaOLYl2zLxsnBUJcg5yAIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/berkan/GitHub/algorithms/search-algorithms"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa810e7f-f531-4a27-ad30-31460fc4d768" name="Changes" comment="" />
+      <created>1658405104584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658405104584</updated>
+      <workItem from="1658405106035" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

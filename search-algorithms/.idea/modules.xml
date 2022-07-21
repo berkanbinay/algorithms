@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jump_search/jump_search.iml" filepath="$PROJECT_DIR$/jump_search/jump_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear_search/linear_search.iml" filepath="$PROJECT_DIR$/linear_search/linear_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/search-algorithms.iml" filepath="$PROJECT_DIR$/.idea/search-algorithms.iml" />
+    </modules>
+  </component>
+</project>
