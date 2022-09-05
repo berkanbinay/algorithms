@@ -1,7 +1,10 @@
 # Binary Search
 
-<b> Linear Search Approach: </b> A simple 
-approach is to do a linear search. The time complexity of the Linear search is O(n). Another approach to perform the same task is using Binary Search. <br>
+Given a sorted array arr[] of n elements, write a function to search a given element x in arr[] and return the index of x in the array.
+<br><br>
+**Linear Search Approach:** A simple 
+approach is to do a linear search. The time complexity of the Linear search is O(n). Another approach to perform the same task is using Binary Search.
+<br>
 
 **Binary Search** is a searching algorithm used in a sorted array by **repeatedly dividing the search interval in half**. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
 
