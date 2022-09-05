@@ -19,11 +19,8 @@ To find the position to be searched, it uses the following formula.
 > smaller value when closer to arr[lo] 
 
 <br>
-<div style="background-color:white; display: inline-block">
 
-![Formula](images/formula.svg)
-
-</div>
+![Formula](images/formula.png)
 
 <br>
 
@@ -73,7 +70,6 @@ The rest of the Interpolation algorithm is the same except for the above partiti
 <br>
 
 **Space Complexity:** O(1)
-
 <br>
 
 ##  When is it used?
