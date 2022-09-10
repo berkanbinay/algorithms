@@ -49,6 +49,8 @@ approach is to do a linear search. The time complexity of the Linear search is O
 <br>
 2. Recursive Method (The recursive method follows the divide and conquers approach)
 
+<br>
+
 ```
 binarySearch(arr, x, low, high)
            if low > high
