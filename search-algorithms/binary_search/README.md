@@ -86,7 +86,7 @@ binarySearch(arr, x, low, high)
 --- 
 <br>
 
-For Iterative Method: 
+For Iterative Method:
 * **Time Complexity:** O(log n)
 * **Auxiliary Space:** O(1)
 
