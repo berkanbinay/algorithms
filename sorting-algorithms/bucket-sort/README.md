@@ -173,7 +173,7 @@ We have understood the logic of the bucket sort. Let's implement the logic in a 
     * Best: O(n+k)
     * Worst: O(n2)
     * Avarage: O(n)
-* **Time Complexity:** O(n+k)
+* **Space Complexity:** O(n+k)
 
 <br>
 <br>
