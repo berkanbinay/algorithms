@@ -117,7 +117,7 @@ The advantages of bubble sort are:
 
 <br>
 
-**Disadvantages Bubble Sort**
+**Disadvantages of Bubble Sort**
 
 There are also some drawbacks of bubble sort which are:
 
