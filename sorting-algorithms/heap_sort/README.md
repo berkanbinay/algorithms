@@ -2,7 +2,9 @@
 
 
 <pre>
-<i><b>Heap sort</b> is a comparison-based sorting technique based on <u>Binary Heap</u> data structure. It is similar to the <u>selection sort</u> where we first find the minimum element and place the minimum element at the beginning. Repeat the same process for the remaining elements.</i>
+<i><b>Heap sort</b> is a comparison-based sorting technique based on <u>Binary Heap</u> data structure. It is similar 
+to the <u>selection sort</u> where we first find the minimum element and place the minimum element at the beginning.
+ Repeat the same process for the remaining elements.</i>
 </pre>
 
 * Heap sort is an in-place algorithm.
