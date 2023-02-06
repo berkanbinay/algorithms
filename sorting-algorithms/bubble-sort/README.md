@@ -4,7 +4,7 @@ Bubble Sort is the simplest <u>sorting algorithm</u> that works by repeatedly sw
 
 <br>
 
-## How does Bubble Sort Work?
+## How Does Bubble Sort Work?
 ---
 
 <br>
@@ -107,7 +107,7 @@ complexity (2n).
 
 <br>
 
-**Advantages of Bubble Sort in Java**
+**Advantages of Bubble Sort**
 
 The advantages of bubble sort are:
 
@@ -117,7 +117,7 @@ The advantages of bubble sort are:
 
 <br>
 
-**Disadvantages of Java Bubble Sort**
+**Disadvantages of Bubble Sort**
 
 There are also some drawbacks of bubble sort which are:
 
