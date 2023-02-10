@@ -24,7 +24,7 @@ After N (size of array) iteration we will get sorted array.
 
 <br>
 
-![Selection Sort Flowchart](images/selection_sort_flowchart.png)
+![Selection Sort Flowchart](images/selection-sort-flowchart.png)
 
 <pre>
 Lets consider the following array as an example: <b>arr[] = {64, 25, 12, 22, 11}</b>
