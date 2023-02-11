@@ -1,4 +1,4 @@
-# Sort Algorithms
+# Sorting Algorithms
 
 * [Bubble Sort](bubble-sort)
 * [Bucket Sort](bucket-sort)
