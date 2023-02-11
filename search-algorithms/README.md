@@ -1,9 +1,9 @@
 # Search Algorithms
 
-* [Binary Search](binary_search)
+* [Binary Search](binary-search)
 * [Exponential Search](exponential-search)
 * [Fibonacci Search](fibonacci-search)
 * [Interpolation Search](interpolation-search)
-* [Jump Search](jump_search)
-* [Linear Search](linear_search)
-* [Ternary Search](ternary_search)
+* [Jump Search](jump-search)
+* [Linear Search](linear-search)
+* [Ternary Search](ternary-search)
